@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "spree_redirects"
-  s.version     = '0.3.0'
+  s.version     = '0.3.1'
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Spencer Steffen", "Michael Bianco"]
   s.email       = ["spencer@citrusme.com", "mike@cliffsidemedia.com"]
